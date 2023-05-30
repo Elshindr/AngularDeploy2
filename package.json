@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "buildgit":"ng build --base-href=https://github.com/Elshindr/AngularDeploy/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
